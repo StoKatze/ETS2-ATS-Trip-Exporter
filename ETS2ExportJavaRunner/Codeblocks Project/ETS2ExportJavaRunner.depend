@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541525473 source:d:\owncloud sync\progetti personali\ets2 trip exporter\2.0\java runner\ets2exportjavarunner\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<windows.h>
+	<ShellApi.h>
+	<stdio.h>
+	<tchar.h>
+	<conio.h>
+
