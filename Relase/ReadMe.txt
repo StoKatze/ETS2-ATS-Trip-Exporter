@@ -77,7 +77,8 @@ V2.2
 
 V2.1
 + Bugfix
-+ Now should work fine with any save game
++ Now should work fine with any save game
+
 
 V2.0
 + Added Gui
