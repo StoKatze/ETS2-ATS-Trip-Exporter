@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541523417 source:d:\owncloud sync\progetti personali\ets2 trip exporter\2.0\cli\ets2export\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<exception>
+	<cstdio>
+	<windows.h>
+	<ShellApi.h>
+	<vector>
+	<sstream>
+
