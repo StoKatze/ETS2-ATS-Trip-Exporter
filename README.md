@@ -38,3 +38,5 @@ This was inspired by a user request on an Italian ETS2 Forum.
 # Screenshot
 
 <img align="canter" src="screenshots/gui.PNG">
+
+Don't forget about the pan! (requested by TheTipo01)
