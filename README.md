@@ -4,7 +4,7 @@ Exports all trips from ETS2/ATS Save game
 This tool can be improved and it's nowhere near perfect. There might be bugs so please open an issue and I will try to help you.
 
 # Prerequisites
-* Windows 7+
+* Windows Vista or newer
 * [Microsoft visual C++](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads)
 * [Java](https://www.java.com/download/)
 * [SII_Decrypt](https://forum.scssoft.com/viewtopic.php?t=245874) - Unzip the archive and grab SII_Decrypt.exe only. GUI is not needed.
