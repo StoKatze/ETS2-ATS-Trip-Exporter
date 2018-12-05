@@ -18,6 +18,12 @@ You can use Excel or similar programs to read the CSV file (doesn't work with go
 
 This tool logs any action in the log.txt file. You can use it to troubleshoot issues.
 
+## CLI Arguments
+This program can be run without Java using CLI.
+It requires only an argument: the game.sii path.
+
+e.g. `ETS2Export.exe "C:\Users\Example\Documents\Euro Truck Simulator 2\Profiles\414141\save\autosave\game.sii"`
+
 ## Reading the data
 The results are in a very raw format. Yes, I know it could be improved.
 Company names are in the name.location format.
@@ -29,20 +35,14 @@ Special deliveries are not supported yet.
 ### If you can't find any CSV file, please read log.txt to check for any errors.
 I'm here to help, so if you can't figure it out on your own you can open a new issue and attach your log.txt file.
 
+## Screenshot
+
+<img align="canter" src="screenshots/gui.PNG">
+
 ## Thank you
 Thanks for using this tool. 
 Please, keep original credits and download links.
 
 This was inspired by a user request on an Italian ETS2 Forum.
-
-## Screenshot
-
-<img align="canter" src="screenshots/gui.PNG">
-
-## CLI Arguments
-This program can be run without Java using CLI.
-It requires only an argument: the game.sii path.
-
-e.g. `ETS2Export.exe "C:\Users\Example\Documents\Euro Truck Simulator 2\Profiles\414141\save\autosave\game.sii"`
 
 Don't forget about the pan! (requested by TheTipo01)
